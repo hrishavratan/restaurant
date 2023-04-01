@@ -1,0 +1,19 @@
+body{
+    background-color: crimson;
+    width:100vw;
+}
+h1{
+    position: relative;
+    left:40vw;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color:azure;
+}
+ol{
+    color:rgb(192, 125, 246);
+    position:relative;
+    left:10vw;
+    background-color: yellow;
+}
+ul{
+    background-color: antiquewhite;
+}
